@@ -7,7 +7,7 @@ DNA based Encryption and Decryption Algorithm
     * 
     * 
 
-<img src="https://raw.githubusercontent.com/Y0ung-DST/DNA_cryptography/main/dna_codes.png?token=AO23POF6KMWUSA7XI4XVYETAJZFYK"
+<img src="https://media.discordapp.net/attachments/635278809741918218/820718763031920680/dna_codes.png"
      alt="DNA codes"
      style="float: left; margin-right: 10px;" />
 ## Usage
