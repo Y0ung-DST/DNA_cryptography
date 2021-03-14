@@ -1,7 +1,7 @@
 # DNA_cryptography
 DNA based Encryption and Decryption Algorithm
 
-## This tool allows you to [...]. It can be usefull for many reasons:
+## This program allows you to use the DNA algorithm in cryptography. It can be usefull for many reasons:
 
     * Lorem ipsum dolor samet
     * 
