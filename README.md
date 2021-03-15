@@ -6,13 +6,13 @@ This program allows you to use the DNA algorithm in cryptography.
     * Use dna_encryption.py to encrypt your message
     * Use dna_decryption.py to decrypt it
 ----------------------------------------------------------------
-DNA encryption is a type of substitution encryption as it replaces each character in the message with its DNA equivalent. 
-> The encryption algorithm has been made on basis of this table and can be easily found on internet:
+DNA encryption is a type of substitution encryption as it replaces each character in the message with its DNA equivalent:
 
 <img src="https://media.discordapp.net/attachments/635278809741918218/820718763031920680/dna_codes.png"
      alt="DNA codes"
      style="float: left; margin-right: 10px;" />
-     
+> The encryption algorithm has been made on basis of this table and can be easily found on internet:
+----------------------------------------------------------------
 ## Usage
 
 ```
