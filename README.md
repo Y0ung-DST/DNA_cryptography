@@ -3,25 +3,32 @@ This program allows you to use the DNA algorithm in cryptography.
 
 ## DNA based Encryption and Decryption Algorithm
 
-    * Use dna_encryption.py to encrypt your message
-    * Use dna_decryption.py to decrypt it
+    * Use dna_encryption.py to encrypt your message.
+    * Use dna_decryption.py to decrypt it.
 ----------------------------------------------------------------
 DNA encryption is a type of substitution encryption as it replaces each character in the message with its DNA equivalent:
+
+<img src="https://networkencyclopedia.com/wp-content/uploads/2019/08/hashing-algorithm.png"
+     alt="DNA codes"
+     style="float: left; margin-right: 10px;" />
+
+> The encryption algorithm has been made with the DNA codon table, A codon table can be used to translate a genetic code into a sequence of amino acids. The standard genetic code is traditionally represented as an RNA codon table, because when proteins are made in a cell by ribosomes, it is messenger RNA that directs protein biosynthesis :
 
 <img src="https://media.discordapp.net/attachments/635278809741918218/820718763031920680/dna_codes.png"
      alt="DNA codes"
      style="float: left; margin-right: 10px;" />
-> The encryption algorithm has been made on basis of this table and can be easily found on internet:
+
 ----------------------------------------------------------------
 ## Usage
 
 ```
 user$ python3 dna_encryption.py
-Input: github
-Encryption: ACGAGACATACTCCAAAC
+Input: hello world
+Encryption: ACTACAAGTAGTATG CCGATGCACAGTAAT
+
 user$ python3 dna_decryption.py
-Input: ACGAGACATACTCCAAAC
-Encryption: github
+Input: ACTACAAGTAGTATG CCGATGCACAGTAAT
+Decryption: hello world
 ```
 
 ### Note:
