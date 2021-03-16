@@ -24,10 +24,10 @@ DNA encryption is a type of substitution encryption as it replaces each characte
 ```
 user$ python3 dna_encryption.py
 Input: hello world
-Encryption: ACTACAAGTAGTATG CCGATGCACAGTAAT
+Encryption: ACTACAAGTAGTATGCTTGCGATGCACAGTAAT
 
 user$ python3 dna_decryption.py
-Input: ACTACAAGTAGTATG CCGATGCACAGTAAT
+Input: ACTACAAGTAGTATGCTTGCGATGCACAGTAAT
 Decryption: hello world
 ```
 
