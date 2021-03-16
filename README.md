@@ -9,7 +9,7 @@ This program allows you to use the DNA algorithm in cryptography.
 DNA encryption is a type of substitution encryption as it replaces each character in the message with its DNA equivalent:
 
 <img src="https://media.discordapp.net/attachments/779677826865561620/821185136061841458/1bbCyiW35hBU3GiaiF4Qcmw.png"
-     width="501" height="358"
+     width="600" height="358"
      alt="algo"
      style="height; float: left; margin-right: 10px;" />
 
