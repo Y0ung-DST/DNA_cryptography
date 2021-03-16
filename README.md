@@ -9,9 +9,8 @@ This program allows you to use the DNA algorithm in cryptography.
 DNA encryption is a type of substitution encryption as it replaces each character in the message with its DNA equivalent:
 
 <img src="https://media.discordapp.net/attachments/779677826865561620/821185136061841458/1bbCyiW35hBU3GiaiF4Qcmw.png"
-     width="600" height="358"
      alt="algo"
-     style="height; float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px; width: 100%; height: auto;" />
 
 > The encryption algorithm has been made with the DNA codon table, A codon table can be used to translate a genetic code into a sequence of amino acids. The standard genetic code is traditionally represented as an RNA codon table, because when proteins are made in a cell by ribosomes, it is messenger RNA that directs protein biosynthesis :
 
