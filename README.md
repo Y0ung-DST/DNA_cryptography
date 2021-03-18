@@ -16,6 +16,8 @@ DNA encryption is a type of substitution encryption as it replaces each characte
      alt="DNA codes"
      style="float: left; margin-right: 10px;" />
 
+> Symmetric encryption is a type of encryption where only one key (a secret key) is used to both encrypt and decrypt electronic information. The entities communicating via symmetric encryption must exchange the key so that it can be used in the decryption process.
+
 ----------------------------------------------------------------
 ## Usage
 
@@ -30,7 +32,7 @@ Decryption: hello world
 ```
 
 ### Note:
-Lorem ipsum dolor samet edit 
+This program is inspired by b00t2root19 CTF: Genetics, and <a href="https://www.youtube.com/watch?v=3LwF_LBepOY&t=189s&ab_channel=JohnHammond" target="_blank">John Hammond's writeup</a>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
