@@ -36,7 +36,3 @@ This program is inspired by b00t2root19 CTF: Genetics, and <a href="https://www.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-----------------------------------------------------------------
-
-Disclaimer: Any malicious use of this tool will not hold the author responsible, this content is only for educationnal purpose.
